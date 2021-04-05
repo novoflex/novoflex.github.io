@@ -1,0 +1,41 @@
+body {
+	line-height: 1;
+	font-family: Trebuchet MS, Helvetica, Arial, sans-serif;
+	/*background-color: #C3C7CA;*/
+	color: #636363;
+}
+
+h1{
+	margin-top: 3em;
+	margin-bottom: 3em; 
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 1.41em; 
+    background-color: #0164A5;
+    padding: 0.5em;
+    font-weight: lighter;
+    color: white;
+}
+.with_logo{
+	margin-left: auto;
+	margin-right: auto;
+	width: 27%
+}
+
+.logo{
+	width: 100%;
+	height: auto;
+}
+
+.with_phone{
+	margin-top: 3em;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+
+}
+
+.with_phone a{
+	text-decoration: none;
+	color: #0164A5;
+}
